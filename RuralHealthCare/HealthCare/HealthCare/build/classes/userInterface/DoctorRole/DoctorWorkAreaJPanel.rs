@@ -1,0 +1,4 @@
+userInterface.DoctorRole.DoctorWorkAreaJPanel$1
+userInterface.DoctorRole.DoctorWorkAreaJPanel$2
+userInterface.DoctorRole.DoctorWorkAreaJPanel
+userInterface.DoctorRole.DoctorWorkAreaJPanel$3
